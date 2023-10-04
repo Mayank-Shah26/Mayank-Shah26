@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning java
 - 🤝 I’m looking to collaborate with others to learn how program 
 
-## Code.org GameLab
+### Code.org GameLab
 
 [Robot Face](https://Mayank-Shah26.github.io/RobotFace/)
 >
