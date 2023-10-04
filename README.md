@@ -8,4 +8,4 @@
 ### Code.org GameLab
 
 [Robot Face](https://Mayank-Shah26.github.io/RobotFace/)
->
+> In this project, I used the randomNumber() function in order to be able to change the size, position, or color of various shapes that make 
