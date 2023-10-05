@@ -10,4 +10,5 @@
 [Robot Face](https://Mayank-Shah26.github.io/Robot-Face/)
 > In this project, I used the randomNumber() function in order to be able to change the size, position, or color of various shapes that make
 
- [caption scene](https://studio.code.org/projects/gamelab/i1760f3KXz9lHjvkUEgxoXpUTni2J6cf_DVEEH75IlQ)
+ [Caption Scene](https://studio.code.org/projects/gamelab/i1760f3KXz9lHjvkUEgxoXpUTni2J6cf_DVEEH75IlQ)
+> In this project, we have 2 animations that are welcoming you to their house. The sky is also surrounded by bats, and all 4 sprites are moving around in a certain area (using the randomNumber() function).
