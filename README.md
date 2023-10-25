@@ -12,3 +12,6 @@
 
  [Caption Scene](https://studio.code.org/projects/gamelab/i1760f3KXz9lHjvkUEgxoXpUTni2J6cf_DVEEH75IlQ)
 > In this project, we have 2 animations that are welcoming you to their house. The sky is also surrounded by bats, and all 4 sprites are moving around in a certain area (using the randomNumber() function).
+
+[Interactive Card poject](https://studio.code.org/projects/gamelab/obu6p5uFlzh8f7YIQveOQKP2frqsxySBXbRBvy-w9WM)
+> In this project, we created a welcome home card with an outer space theme. A spaceship is very close to entering earth and an alien is dancing in joy, along with some balloons.
