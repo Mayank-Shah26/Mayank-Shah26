@@ -15,3 +15,6 @@
 
 [Interactive Card project](https://studio.code.org/projects/gamelab/obu6p5uFlzh8f7YIQveOQKP2frqsxySBXbRBvy-w9WM)
 > In this project, we created a welcome home card with an outer space theme. A spaceship is very close to entering earth and an alien is dancing in joy, along with some balloons.
+
+[Side Scroller Project](https://studio.code.org/projects/gamelab/6aebCVkCl55ofvL9_qQpNuRZuojWRrW3yE_UFSdYhR0)
+> In this project, we recreated the dinosaur game. We added 3 lives to the game in order to increase the length of the game. However, if you hit a pterodactyl, then you automatically lose the game.
