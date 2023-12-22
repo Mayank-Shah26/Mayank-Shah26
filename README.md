@@ -18,3 +18,12 @@
 
 [Side Scroller Project](https://studio.code.org/projects/gamelab/6aebCVkCl55ofvL9_qQpNuRZuojWRrW3yE_UFSdYhR0)
 > In this project, we recreated the dinosaur game. We added 3 lives to the game in order to increase the length of the game. However, if you hit a pterodactyl, then you automatically lose the game.
+
+[Flyer Game](https://studio.code.org/projects/gamelab/_da78GVa7rxXze-C-1pLy_rWxX7CPbhKMGLRxR9Qwjo)
+> In this project, we created a flyer game. The goal of this game is to be able to collect as many worms as possible (with the bird) and you should try to avoid the thunder bolts as much as possible. When you collect a worm, the score goes up by 1.
+
+[Platfrom Game](https://studio.code.org/projects/gamelab/9TMpOJqSesDjiDC9_qFbzF0h7cVD1eFXGqS3S0puk-A)
+> This project is a platform game. In this project, you control a monster who jumps from platform to platform. The goal of this game is to collect as many cookies as possible, for which you receive 5 points, and avoid as many apples as possible, for which you lose 5 points.
+
+[Final Game Project](https://studio.code.org/projects/gamelab/dNP16wqmX6TXRtSsU00_muTCXu80C5N3J2ARrXTMRTU)
+> This project is a space game, where the spaceship is tasked with avoiding the lasers and catching as many coins as possible. The spaceship can take at most 3 hits. If you collect coins, you will gain 5 points, but you will lose 5 points for every laser you touch. If you get to 100 points you win; the background will change overtime, depending on how many points you have. However, if you get to -10 points, then you will lose.
