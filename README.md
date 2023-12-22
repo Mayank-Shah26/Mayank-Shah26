@@ -30,3 +30,9 @@
 
 [Hello It's Me](https://ai2.appinventor.mit.edu/#6588645982994432)
 > This project basically has 4 buttons, with pictures of animals. When you click these buttons, you will hear the sound the animal would typically make. When you click the "Stop Sounds" button, all the noise will stop.
+
+[My Piano]([https://ai2.appinventor.mit.edu/#6588645982994432](https://ai2.appinventor.mit.edu/#5874983571947520))
+> This is a piano. You can play this like a normal piano on your phone.
+
+[Music Maker](https://ai2.appinventor.mit.edu/#4649461697347584)
+> This is a music maker app. In this app, you can play the sounds of different natural events, such as thunder, earthquakes, etc.
