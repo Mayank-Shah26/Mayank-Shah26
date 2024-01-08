@@ -36,3 +36,9 @@
 
 [Music Maker](https://ai2.appinventor.mit.edu/#4649461697347584)
 > This is a music maker app. In this app, you can play the sounds of different natural events, such as thunder, earthquakes, etc.
+
+[Find The Gold](https://ai2.appinventor.mit.edu/#5529173827125248)
+> This project is a find the gold game. You have to move the ball around the black walls in order to successfully navigate the gold.
+
+[Food Chase](https://ai2.appinventor.mit.edu/#6354830192672768)
+This game is a food chase game. You have to flick the red ball and touch the food to get bigger. However, if you touch the green ball, which is always going to be the same size as the red ball, then the game is over.
