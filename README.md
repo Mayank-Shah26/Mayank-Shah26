@@ -46,8 +46,8 @@
 >This game is a food chase game. You have to flick the red ball and touch the food to get bigger. However, if you touch the green ball, which is always going to be the same size as the red ball, then the game is over.
 
 ### CMU PYTHON
-[Creative Task 1]([https://academy.cs.cmu.edu/exercise/4132/](https://academy.cs.cmu.edu/sharing/seaGreenMonkey6638)https://academy.cs.cmu.edu/sharing/seaGreenMonkey6638)
+[Creative Task 1](https://academy.cs.cmu.edu/exercise/4132/)
 > This is a remade copy of the Jurassic Park Logo. As a part of Unit 1, this creative task helped summarize the unit of creating pictures.
 
-[Creative Task 2]([https://academy.cs.cmu.edu/sharing/yellowGreenHorse177](https://academy.cs.cmu.edu/sharing/yellowGreenHorse1778)https://academy.cs.cmu.edu/sharing/yellowGreenHorse1778)
+[Creative Task 2](https://academy.cs.cmu.edu/sharing/yellowGreenHorse1778)
 > This is a scene of the ocean on a nice day and during a thunder storm. To summarize Unit 2, we emphasized functions and properties throughout this project.
