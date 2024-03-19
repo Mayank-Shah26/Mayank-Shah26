@@ -28,6 +28,8 @@
 [Final Game Project](https://studio.code.org/projects/gamelab/dNP16wqmX6TXRtSsU00_muTCXu80C5N3J2ARrXTMRTU)
 > This project is a space game, where the spaceship is tasked with avoiding the lasers and catching as many coins as possible. The spaceship can take at most 3 hits. If you collect coins, you will gain 5 points, but you will lose 5 points for every laser you touch. If you get to 100 points you win; the background will change overtime, depending on how many points you have. However, if you get to -10 points, then you will lose.
 
+### APP INVENTOR 
+
 [Hello It's Me](https://ai2.appinventor.mit.edu/#6588645982994432)
 > This project basically has 4 buttons, with pictures of animals. When you click these buttons, you will hear the sound the animal would typically make. When you click the "Stop Sounds" button, all the noise will stop.
 
@@ -41,4 +43,11 @@
 > This project is a find the gold game. You have to move the ball around the black walls in order to successfully navigate the gold.
 
 [Food Chase](https://ai2.appinventor.mit.edu/#6354830192672768)
-This game is a food chase game. You have to flick the red ball and touch the food to get bigger. However, if you touch the green ball, which is always going to be the same size as the red ball, then the game is over.
+>This game is a food chase game. You have to flick the red ball and touch the food to get bigger. However, if you touch the green ball, which is always going to be the same size as the red ball, then the game is over.
+
+### CMU PYTHON
+[Creative Task 1]([https://academy.cs.cmu.edu/exercise/4132/](https://academy.cs.cmu.edu/sharing/seaGreenMonkey6638)https://academy.cs.cmu.edu/sharing/seaGreenMonkey6638)
+> This is a remade copy of the Jurassic Park Logo. As a part of Unit 1, this creative task helped summarize the unit of creating pictures.
+
+[Creative Task 2]([https://academy.cs.cmu.edu/sharing/yellowGreenHorse177](https://academy.cs.cmu.edu/sharing/yellowGreenHorse1778)https://academy.cs.cmu.edu/sharing/yellowGreenHorse1778)
+> This is a scene of the ocean on a nice day and during a thunder storm. To summarize Unit 2, we emphasized functions and properties throughout this project.
