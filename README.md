@@ -51,3 +51,12 @@
 
 [Creative Task 2](https://academy.cs.cmu.edu/sharing/yellowGreenHorse1778)
 > This is a scene of the ocean on a nice day and during a thunder storm. To summarize Unit 2, we emphasized functions and properties throughout this project.
+
+[Creative Task 3](https://academy.cs.cmu.edu/sharing/springGreenHamster4489)
+> This is the scene of a lighthouse. As you move your mouse, the sun and moon will move to model a day. Just like in real life, the rectangle wil turn yellow to embody a light once the moon comes out. As the sun goes down the opacity, or the background color, also decreases.
+
+[Creative Task 4](https://academy.cs.cmu.edu/sharing/oliveDrabSheep2662)
+> This is the scene of a planet, and an asteroids journey past the planet. As you move your mouse, the asterod will move and get a bit smaller. You can also move he asteroid using the up and down arrow keys, but make sure to not hit the planet!
+
+[Creative Task 5](https://academy.cs.cmu.edu/sharing/thistleSquirrel2858)
+> This is time in a city. The sun and moon will move independently. However, if you hit the space bar, you can toggle between night and day, seeing both the sun and moon.
